@@ -1,6 +1,6 @@
 cask "aimeter" do
-  version "0.3.3"
-  sha256 "45a82b748e2abcc34eb8c13e230998588d8f3c046fc04f9e0f435fce95849292"
+  version "0.3.4"
+  sha256 "083c95e8f172553cf5160e066340e39351be94fa0ee1a6d459ebb58c118da496"
 
   url "https://github.com/wangyufeng0615/aimeter/releases/download/v#{version}/aimeter.zip"
   name "aimeter"
