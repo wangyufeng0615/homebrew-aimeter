@@ -7,7 +7,7 @@ cask "aimeter" do
   desc "Menu bar usage monitor for Claude Code and Codex CLI"
   homepage "https://github.com/wangyufeng0615/aimeter"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "aimeter.app"
 
